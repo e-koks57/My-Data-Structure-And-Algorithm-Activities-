@@ -11,7 +11,7 @@ class Node {
 }
 
 // Queue class to implement queue operations using linked list
-class Queue {
+class QueueWithLinkedList {
     private Node front, rear;
 
     public Queue() {
